@@ -14,7 +14,7 @@
 
 ## 2. Model
 
-![AR](https://github.com/Chuck2Win/chatbot_project/img/model.png)
+![AR](https://github.com/Chuck2Win/chatbot_project/imgs/model.png)
 
 ​	SKT에서 제공하는 Ko GPT2 모델을 활용함. 기존 모델에 classification layer를 추가한 모델
 
@@ -30,10 +30,10 @@
 | Val   | 19.32    | 0.43     | 0.85     |
 | Test  | 18.74    | 0.44     | 0.85     |
 
-![AR](https://github.com/Chuck2Win/chatbot_project/img/RESULT1.png)
+![AR](https://github.com/Chuck2Win/chatbot_project/imgs/RESULT1.png)
 
-![AR](https://github.com/Chuck2Win/chatbot_project/img/RESULT2.png)
+![AR](https://github.com/Chuck2Win/chatbot_project/imgs/RESULT2.png)
 
-![AR](https://github.com/Chuck2Win/chatbot_project/img/RESULT3.png)
+![AR](https://github.com/Chuck2Win/chatbot_project/imgs/RESULT3.png)
 
-![AR](https://github.com/Chuck2Win/chatbot_project/img/RESULT4.png)
+![AR](https://github.com/Chuck2Win/chatbot_project/imgs/RESULT4.png)
