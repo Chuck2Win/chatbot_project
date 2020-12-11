@@ -29,6 +29,9 @@
 | Test  | 18.74    | 0.44     | 0.85     |
 
 ![AR](https://raw.githubusercontent.com/Chuck2Win/chatbot_project/main/imgs/RESULT1.png)
+
 ![AR](https://raw.githubusercontent.com/Chuck2Win/chatbot_project/main/imgs/RESULT2.png)
+
 ![AR](https://raw.githubusercontent.com/Chuck2Win/chatbot_project/main/imgs/RESULT3.png)
+
 ![AR](https://raw.githubusercontent.com/Chuck2Win/chatbot_project/main/imgs/RESULT4.png)
