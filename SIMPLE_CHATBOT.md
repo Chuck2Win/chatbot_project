@@ -14,7 +14,7 @@
 
 ## 2. Model
 
-![image-20201211235208239](C:\Users\UNIMAX\AppData\Roaming\Typora\typora-user-images\image-20201211235208239.png)
+![AR](https://github.com/Chuck2Win/chatbot_project/img/model.png)
 
 ​	SKT에서 제공하는 Ko GPT2 모델을 활용함. 기존 모델에 classification layer를 추가한 모델
 
@@ -30,10 +30,10 @@
 | Val   | 19.32    | 0.43     | 0.85     |
 | Test  | 18.74    | 0.44     | 0.85     |
 
-![image-20201212000028292](C:\Users\UNIMAX\AppData\Roaming\Typora\typora-user-images\image-20201212000028292.png)
+![AR](https://github.com/Chuck2Win/chatbot_project/img/RESULT1.png)
 
-![image-20201212000035665](C:\Users\UNIMAX\AppData\Roaming\Typora\typora-user-images\image-20201212000035665.png)
+![AR](https://github.com/Chuck2Win/chatbot_project/img/RESULT2.png)
 
-![image-20201212000043668](C:\Users\UNIMAX\AppData\Roaming\Typora\typora-user-images\image-20201212000043668.png)
+![AR](https://github.com/Chuck2Win/chatbot_project/img/RESULT3.png)
 
-![image-20201212000141881](C:\Users\UNIMAX\AppData\Roaming\Typora\typora-user-images\image-20201212000141881.png)
+![AR](https://github.com/Chuck2Win/chatbot_project/img/RESULT4.png)
