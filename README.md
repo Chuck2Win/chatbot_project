@@ -41,6 +41,4 @@
 cd KoGPT2  
 ! pip install -r requirements.txt  
 ! pip install .  
-
-### preprocessing
-python3 preprocessing.py --return_file (preprocessing 후 데이터 저장위치)
+(현재는 해당 git 위치를 옮김.)  
