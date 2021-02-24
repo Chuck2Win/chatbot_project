@@ -36,11 +36,11 @@
 
 ## 사용
 (작업과 학습은 colab에서 진행함)  
-(SKT kogpt2 gitclone이 필요)  
-! git clone https://github.com/SKT-AI/KoGPT2.git
-cd KoGPT2
-! pip install -r requirements.txt
-! pip install .
+(SKT kogpt2 gitclone이 필요)    
+! git clone https://github.com/SKT-AI/KoGPT2.git  
+cd KoGPT2  
+! pip install -r requirements.txt  
+! pip install .  
 
 ### preprocessing
 python3 preprocessing.py --return_file (preprocessing 후 데이터 저장위치)
