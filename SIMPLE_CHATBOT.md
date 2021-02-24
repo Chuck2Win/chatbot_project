@@ -33,3 +33,11 @@
 ![AR](https://raw.githubusercontent.com/Chuck2Win/chatbot_project/main/imgs/RESULT3.png)
 
 ![AR](https://raw.githubusercontent.com/Chuck2Win/chatbot_project/main/imgs/RESULT4.png)
+
+## 사용
+(작업과 학습은 colab에서 진행함)  
+(SKT kogpt2 gitclone이 필요)  
+! git clone https://github.com/SKT-AI/KoGPT2.git
+cd KoGPT2
+! pip install -r requirements.txt
+! pip install .
