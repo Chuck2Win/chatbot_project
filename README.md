@@ -42,3 +42,5 @@ cd KoGPT2
 ! pip install -r requirements.txt  
 ! pip install .  
 (현재는 해당 git 위치를 옮김.)  
+
+! python test.py --input=(대화)  
