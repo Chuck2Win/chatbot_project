@@ -44,3 +44,6 @@ cd KoGPT2
 (현재는 해당 git 위치를 옮김.)  
 
 ! python test.py --input=(대화)  
+
+## 텔레그램과 연동했던 코드(조욱래 연구원님께서 해주신 작업. 기록용으로 남겨둠)  
+https://github.com/Chuck2Win/chatbot-facebook
